@@ -6,7 +6,7 @@ This example is to show different parts of the Git repository and various comman
 ## Purpose
     This section will come soon...
 ##How to contribute
-Just drop me an email
+Fork thuis repository and then issue Pull Requests for review.
 
 ## Deployement
 A very easy process.
