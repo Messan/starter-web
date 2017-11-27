@@ -10,3 +10,7 @@ Just drop me an email
 
 ## Deployement
 A very easy process.
+
+### Copyright
+2017 TMC
+
